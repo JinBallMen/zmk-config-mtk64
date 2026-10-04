@@ -113,7 +113,7 @@
 
         layer_7 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &to 0  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &kp LC(LS(N))  &kp LC(T)  &kp LC(D)  &kp LC(U)  &kp M  &kp ESC  &trans  &trans  &trans  &trans  &trans  &trans  &kp P  &kp B  &kp E  &kp G  &kp LC(KP_MINUS)  &kp LC(KP_PLUS)  &trans  &trans  &trans  &trans  &trans  &trans  &kp LC(Z)  &kp LC(Y)  &kp RBKT  &kp NUHS  &kp MINUS  &kp EQUAL  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp COMMA  &kp DOT  &kp LC(RBKT)  &kp LC(NUHS)  &kp H  &kp LC(S)  &kp LC(LBKT)  &trans  &trans  &trans  &trans  &kp C  &kp ENTER  &kp LC(N0)  &kp LC(LA(LS(H)))  &trans  &trans  &trans  &kp X  &none  &none  &trans  &to 0  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
     };
